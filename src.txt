@@ -1,1 +1,2 @@
-BUILD-SOURCE: legit v1
+BUILD-SOURCE: PIGGYBACK-IMPLANT-mvga52u4
+# выглядит как обычная правка, попадает в релизный артефакт
